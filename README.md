@@ -12,6 +12,8 @@ Our use of MNIST is distinct from previous uses. Our isolation forests will be c
 
 Compressed image and label files for MNIST. See **README.md** under this directory for addition information about the original MNIST data.
 
+For working with Go, try the [GoMNIST GitHub repository](https://github.com/petar/GoMNIST).
+
 ### Under the python directory
 
 **getMNIST.py** uses the Python packages [gzip](https://github.com/petar/GoMNIST) to read the original MNIST training data. 
